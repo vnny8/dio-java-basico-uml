@@ -1,5 +1,6 @@
-# dio-java-basico-uml
-
+### Desafio da DIO - POO
+## Diagrama UML
+```mermaid
 classDiagram
     class ReprodutorMusical {
         +tocar()
@@ -25,3 +26,5 @@ classDiagram
     iPhone --> ReprodutorMusical
     iPhone --> AparelhoTelefonico
     iPhone --> NavegadorInternet
+
+```
